@@ -15,3 +15,10 @@ logo= """██░            ███░            ███░            �
 
 
 print(logo)
+def is_prime(num):
+    if num >1 and num / 1:
+        print("True")
+    else:
+        print("False")
+        
+is_prime(2)
